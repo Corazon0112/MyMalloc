@@ -1,6 +1,5 @@
 Created By:
-Vatsal Mehta - vkm31
-Tushar Cora Suresh - tc901
+Tushar Cora Suresh
 
 Test Plan Overview:
 
